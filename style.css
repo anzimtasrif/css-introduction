@@ -1,0 +1,21 @@
+h1 {
+  color: mediumturquoise;
+  background-color: black;
+}
+
+h1 span {
+  color: tomato;
+}
+
+#author-date {
+  color: salmon;
+  background-color: blue;
+}
+
+.colored-paragraph {
+  color: crimson;
+}
+
+div h1 span {
+  color: hotpink;
+}
